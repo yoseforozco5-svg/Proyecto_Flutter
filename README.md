@@ -76,7 +76,7 @@ http://127.0.0.1:8000/docs
 Abre otra terminal y accede a la carpeta del frontend:
 
 ```bash
-cd frontend
+cd frontend_API
 ```
 
 Instala las dependencias:
