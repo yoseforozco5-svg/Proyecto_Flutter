@@ -104,3 +104,11 @@ flutter run
 7. Registra o modifica tu valoración mediante las estrellas.
 8. Accede al mapa desde el botón correspondiente.
 9. Si ingresas como administrador, podrás acceder a las opciones administrativas disponibles.
+
+Credenciales de usuario comun:
+correo: irving@gmail
+contraseña: 12345678
+
+Credenciales de administrador:
+correo: admin@gmail
+contraseña: admin12345
